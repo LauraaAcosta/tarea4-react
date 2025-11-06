@@ -1,5 +1,5 @@
-import useCounter from '../hooks/useCounter.jsx';
-import useFetch from '../hooks/useFetch.jsx';
+import { useCounter } from '../hooks/useCounter.js';
+import useFetch from '../hooks/useFetch.js';
 import { Loading } from '../components/Loading.jsx';
 import { CharacterInfo } from '../components/CharacterInfo.jsx';
 
